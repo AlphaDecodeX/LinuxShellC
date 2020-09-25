@@ -39,9 +39,9 @@ For Different commands like `ls`,`cd`,`grep` etc. Follow my Repo and Give a Star
 
 [[Back to top]](https://github.com/Lovepreet-Singh-LPSK/LinuxShell#index)
 
-| ![Screen 1](https://drive.google.com/file/d/1_PCleIJMWHiLZxZs3oSeW3e0-tTGqtu_/view?usp=sharing) | ![Screen 2](https://drive.google.com/file/d/1PU3BLoCaPJz2S0sd6_JIWl1PZNhFVFC_/view?usp=sharing) |
+| ![Screen 1](https://github.com/Lovepreet-Singh-LPSK/LinuxShell/blob/master/pics/1.png) | ![Screen 2](https://github.com/Lovepreet-Singh-LPSK/LinuxShell/blob/master/pics/2.png) |
 |---------------------------------------------|---------------------------------------------|
-| ![Screen 3](https://drive.google.com/file/d/1gXfVLG6b_orAIB9wZhVSjX9eYEfBzK0R/view?usp=sharing) | ![Screen 4](https://drive.google.com/file/d/12RA5K0DD3DN2tChH91x5aSnNuR7_gaod/view?usp=sharing) |
+| ![Screen 3](https://github.com/Lovepreet-Singh-LPSK/LinuxShell/blob/master/pics/3.png) | ![Screen 4](https://github.com/Lovepreet-Singh-LPSK/LinuxShell/blob/master/pics/4.png) |
 
 ## Game Features
 
