@@ -32,7 +32,7 @@ The Linux Shell is created by using `C`.
 
 [[Back to top]](https://github.com/Lovepreet-Singh-LPSK/LinuxShell#index)
 
-Follow this tutorial for structure or architecture of the ``Shell``. <a href="https://brennan.io/2015/01/16/write-a-shell-in-c/">Tutorial for Structure</a>
+Follow this <a href="https://brennan.io/2015/01/16/write-a-shell-in-c/">Tutorial</a> for structure or architecture of the ``Shell``<br>
 For Different commands like `ls`,`cd`,`grep` etc. Follow my Repo and Give a Star if you Like :)
 
 [![Space Shooter Demo - Youtube](http://i.imgur.com/bHjlJfG.jpg)](https://www.youtube.com/watch?v=o99zpLsM-ZI)
