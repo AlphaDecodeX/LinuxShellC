@@ -35,15 +35,13 @@ The Linux Shell is created by using `C`.
 Follow this <a href="https://brennan.io/2015/01/16/write-a-shell-in-c/">Tutorial</a> for structure or architecture of the ``Shell``<br>
 For Different commands like `ls`,`cd`,`grep` etc. Follow my Repo and Give a Star if you Like :)
 
-[![Space Shooter Demo - Youtube](http://i.imgur.com/bHjlJfG.jpg)](https://www.youtube.com/watch?v=o99zpLsM-ZI)
-
 ## Screenshots
 
-[[Back to top]](https://github.com/tasdikrahman/spaceShooter#index)
+[[Back to top]](https://github.com/Lovepreet-Singh-LPSK/LinuxShell#index)
 
-| ![Screen 1](http://i.imgur.com/3MzfmbT.jpg) | ![Screen 2](http://i.imgur.com/4OgIByR.png) |
+| ![Screen 1](https://drive.google.com/file/d/1_PCleIJMWHiLZxZs3oSeW3e0-tTGqtu_/view?usp=sharing) | ![Screen 2](https://drive.google.com/file/d/1PU3BLoCaPJz2S0sd6_JIWl1PZNhFVFC_/view?usp=sharing) |
 |---------------------------------------------|---------------------------------------------|
-| ![Screen 3](http://i.imgur.com/PFQJjE8.png) | ![Screen 4](http://i.imgur.com/lV4aIur.png) |
+| ![Screen 3](https://drive.google.com/file/d/1gXfVLG6b_orAIB9wZhVSjX9eYEfBzK0R/view?usp=sharing) | ![Screen 4](https://drive.google.com/file/d/12RA5K0DD3DN2tChH91x5aSnNuR7_gaod/view?usp=sharing) |
 
 ## Game Features
 
