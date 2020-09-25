@@ -9,7 +9,7 @@ The Linux Shell is created by using `C`.
 
 ## Index
 
-- [Demo](https://github.com/tasdikrahman/spaceShooter#demo)
+- [References](https://github.com/Lovepreet-Singh-LPSK/LinuxShell#references)
   - [Screenshots](https://github.com/tasdikrahman/spaceShooter#screenshots)
 - [Game Features](https://github.com/tasdikrahman/spaceShooter#game-features)
   - [Controls](https://github.com/tasdikrahman/spaceShooter#controls)
@@ -28,11 +28,12 @@ The Linux Shell is created by using `C`.
 - [License](https://github.com/tasdikrahman/spaceShooter#license)
 - [Donation](https://github.com/tasdikrahman/spaceShooter#donation)
 
-## Demo
+## References
 
-[[Back to top]](https://github.com/tasdikrahman/spaceShooter#index)
+[[Back to top]](https://github.com/Lovepreet-Singh-LPSK/LinuxShell#index)
 
-Follow the youtube video to see how I fared on ``spaceShooter``
+Follow this tutorial for structure or architecture of the ``Shell``. <a href="https://brennan.io/2015/01/16/write-a-shell-in-c/">Tutorial for Structure</a>
+For Different commands like `ls`,`cd`,`grep` etc. Follow my Repo and Give a Star if you Like :)
 
 [![Space Shooter Demo - Youtube](http://i.imgur.com/bHjlJfG.jpg)](https://www.youtube.com/watch?v=o99zpLsM-ZI)
 
