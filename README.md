@@ -43,64 +43,29 @@ For Different commands like `ls`,`cd`,`grep` etc. Follow my Repo and Give a Star
 |---------------------------------------------|---------------------------------------------|
 | ![Screen 3](https://github.com/Lovepreet-Singh-LPSK/LinuxShell/blob/master/pics/3.png) | ![Screen 4](https://github.com/Lovepreet-Singh-LPSK/LinuxShell/blob/master/pics/4.png) |
 
-## Game Features
+## Shell Features
 
-[[Back to top]](https://github.com/tasdikrahman/spaceShooter#index)
+[[Back to top]](https://github.com/Lovepreet-Singh-LPSK/LinuxShell#index)
 
-- Health bar for the space ship
-- Score board to show how you are faring so far
-- Power ups like
-  - shield: increases the space ships life
-  - bolt: increases the shooting capability of the ship by firing 2 to 3 bullets instead of one at time.
-- Custom sounds and sprite animation for things like
-  - meteorite explosion
-  - bullet shoots
-  - player explosion
-- 3 lives per game
-- Fun to play :)
+- Commands can run in parallel or in background by using `&` at the end of the command.
+- All Commands of basic linux shell run in this shell too, even in background using `&`.
+- Commands which are manually coded includes ``g`` symbol at the front of the command. Ex. `gls`, `gcd`, `ggrep`.
+- Shell implemented using only system calls.
+- Extra Functions like help command, exit command also implemented.
 
-## Controls
+## How To Run Shell
 
-[[Back to top]](https://github.com/tasdikrahman/spaceShooter#index)
+**NOTE** : Please install `git` and `make` on your OS first. 
 
-|              | Button              |
-|--------------|---------------------|
-| Move Left    | <kbd>left</kbd>     |
-| Move right   | <kbd>right</kbd>    |
-| Fire bullets | <kbd>spacebar</kbd> |
-| Quit game    | <kbd>Esc</kbd>      |
-
-## Installation
-
-[[Back to top]](https://github.com/tasdikrahman/spaceShooter#index)
-
-### For `Windows`
-
-- :arrow_down: [Download the prebuilt zip file and unzip it.](https://github.com/tasdikrahman/spaceShooter/releases/latest)
-- Run the executable named `spaceShooter` inside the extracted file.
-
-### `Linux/Debian` based systems
-
-#### Option 1: Download the zipped executable file
-
-- :arrow_down: [Download the latest zip file for linux](https://github.com/tasdikrahman/spaceShooter/releases/latest)
-- Unzip the file
-
-If your download was saved on the `~/Downloads` folder
-
-Press <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd> to open the shell if you are on `GNU/Linux` based systems and type
+[[Back to top]](https://github.com/Lovepreet-Singh-LPSK/LinuxShell#index)
 
 ```bash
-$ unzip ~/Downloads/SpaceShooter-0.0.3.Linux.zip -d ~/Desktop
-$ cd ~/Desktop
-$ ## navigate to the unzipped file and change the file permissions for the executable
-~/Desktop $ chmod +x spaceShooter
-~/Desktop $ ./spaceShooter
+$ git clone https://github.com/Lovepreet-Singh-LPSK/LinuxShell.git
+$ cd LinuxShell
+$ make
+$ ./sh
 ```
 
-This will unzip the file on your `Desktop`, you can replace it with the directory of your choice
-
-**NOTE** : If it gives you an error, you probably don't have `unzip` installed in your system.
 
 ```bash
 $ sudo apt-get install unzip
